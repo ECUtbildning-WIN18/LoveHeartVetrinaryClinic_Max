@@ -5,3 +5,10 @@ D:\VS\GruulSkuul\LoveHeartVetrinaryClinicHEMU\LoveHeartVetrinaryClinicHEMU\bin\D
 D:\VS\GruulSkuul\LoveHeartVetrinaryClinicHEMU\LoveHeartVetrinaryClinicHEMU\bin\Debug\LoveHeartVetrinaryClinicHEMU.pdb
 D:\VS\GruulSkuul\LoveHeartVetrinaryClinicHEMU\LoveHeartVetrinaryClinicHEMU\obj\Debug\LoveHeartVetrinaryClinicHEMU.exe
 D:\VS\GruulSkuul\LoveHeartVetrinaryClinicHEMU\LoveHeartVetrinaryClinicHEMU\obj\Debug\LoveHeartVetrinaryClinicHEMU.pdb
+C:\Users\Raggen\Desktop\Workspace\LoveHeartVetrinaryClinic_Max\LoveHeartVetrinaryClinicHEMU\bin\Debug\LoveHeartVetrinaryClinicHEMU.exe.config
+C:\Users\Raggen\Desktop\Workspace\LoveHeartVetrinaryClinic_Max\LoveHeartVetrinaryClinicHEMU\bin\Debug\LoveHeartVetrinaryClinicHEMU.exe
+C:\Users\Raggen\Desktop\Workspace\LoveHeartVetrinaryClinic_Max\LoveHeartVetrinaryClinicHEMU\bin\Debug\LoveHeartVetrinaryClinicHEMU.pdb
+C:\Users\Raggen\Desktop\Workspace\LoveHeartVetrinaryClinic_Max\LoveHeartVetrinaryClinicHEMU\obj\Debug\LoveHeartVetrinaryClinicHEMU.csprojAssemblyReference.cache
+C:\Users\Raggen\Desktop\Workspace\LoveHeartVetrinaryClinic_Max\LoveHeartVetrinaryClinicHEMU\obj\Debug\LoveHeartVetrinaryClinicHEMU.csproj.CoreCompileInputs.cache
+C:\Users\Raggen\Desktop\Workspace\LoveHeartVetrinaryClinic_Max\LoveHeartVetrinaryClinicHEMU\obj\Debug\LoveHeartVetrinaryClinicHEMU.exe
+C:\Users\Raggen\Desktop\Workspace\LoveHeartVetrinaryClinic_Max\LoveHeartVetrinaryClinicHEMU\obj\Debug\LoveHeartVetrinaryClinicHEMU.pdb

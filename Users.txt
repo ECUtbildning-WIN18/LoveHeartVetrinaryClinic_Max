@@ -1,0 +1,3 @@
+User: Sarah  Password: qwerty  (Receptionist)
+User: John   Password: 12345   (Veterinarian)
+User: Fatman PassWord: LittleBoy (System Admin)
